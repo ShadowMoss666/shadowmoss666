@@ -16,10 +16,10 @@ Soy estudiante de Licenciatura en Sistemas y Tecnicatura Universitaria en Inform
 -
 
 ## 🖥️ Proyectos destacados
--
+- 
 -
 
 ## 📫 Contacto
-- Email: ldinvernizz@gmail.com
-- LinkedIn: www.linkedin.com/in/luca-invernizzi-
+- [Email]: (ldinvernizz@gmail.com)
+- [LinkedIn]: (www.linkedin.com/in/luca-invernizzi-)
 
