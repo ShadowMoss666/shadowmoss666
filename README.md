@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hola👋
+Soy estudiante de Licenciatura en Sistemas y Tecnicatura Universitaria en Informatica 
 
-<!--
-**ShadowMoss666/shadowmoss666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tecnologías que aprendí
+-Java
+-Python
+-Assembler
+-C / C++
+-HTML, CSS
+-MySQL / PostgreSQL
+-Git & GitHub
+-Linux / Windows
 
-Here are some ideas to get you started:
+## 🌱 Tecnologías que sigo aprendiendo 
+-
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Proyectos destacados
+-
+-
+
+## 📫 Contacto
+-Email: ldinvernizz@gmail.com
+-LinkedIn: www.linkedin.com/in/luca-invernizzi-
+
