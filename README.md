@@ -16,7 +16,7 @@ Soy estudiante de Licenciatura en Sistemas y Tecnicatura Universitaria en Inform
 -
 
 ## 🖥️ Proyectos destacados
-- 
+- [Juego de silabas en python] (https://github.com/ShadowMoss666/juegoDeSilabasPY.git)
 -
 
 ## 📫 Contacto
