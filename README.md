@@ -5,11 +5,11 @@ Soy estudiante de Licenciatura en Sistemas y Tecnicatura Universitaria en Inform
 -Java
 -Python
 -Assembler
--C / C++
+-C y C++
 -HTML, CSS
--MySQL / PostgreSQL
+-MySQL y PostgreSQL
 -Git & GitHub
--Linux / Windows
+-Linux y Windows
 
 ## 🌱 Tecnologías que sigo aprendiendo 
 -
