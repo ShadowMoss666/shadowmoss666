@@ -6,14 +6,13 @@ Soy estudiante de Licenciatura en Sistemas y Tecnicatura Universitaria en Inform
 - Python
 - Assembler
 - C y C++
-- HTML, CSS
 - MySQL y PostgreSQL
 - Git & GitHub
 - Linux y Windows
 
 ## 🌱 Tecnologías que sigo aprendiendo 
--
--
+- JavaScript
+- HTML, CSS
 
 ## 🖥️ Proyectos destacados
 - [Juego de silabas en python] (https://github.com/ShadowMoss666/juegoDeSilabasPY.git)
